@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "TransactionMinimalReproduction", "TransactionMinimalReproduction\TransactionMinimalReproduction.fsproj", "{672742D4-D300-4DBA-8CC8-033F11EA2C4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{672742D4-D300-4DBA-8CC8-033F11EA2C4D}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{672742D4-D300-4DBA-8CC8-033F11EA2C4D}.Debug|anycpu.Build.0 = Debug|anycpu
+		{672742D4-D300-4DBA-8CC8-033F11EA2C4D}.Release|anycpu.ActiveCfg = Release|anycpu
+		{672742D4-D300-4DBA-8CC8-033F11EA2C4D}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
